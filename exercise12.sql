@@ -1,0 +1,1 @@
+SELECT City FROM Students WHERE NOT City IN ('Sint Maarten' or 'Haiti');

@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE ** ** = make LIKE 'a%' or 'c%' or 's%';
